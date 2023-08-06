@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/challenge20-react-portfolio/static/css/main.286856f3.css",
-    "main.js": "/challenge20-react-portfolio/static/js/main.bb4cca39.js",
+    "main.js": "/challenge20-react-portfolio/static/js/main.9f893102.js",
+    "static/media/headshot.png": "/challenge20-react-portfolio/static/media/headshot.acdcb1085bb014196455.png",
     "static/media/readme-generator.jpg": "/challenge20-react-portfolio/static/media/readme-generator.ec82b3e7d50b480251b2.jpg",
     "service-worker.js": "/challenge20-react-portfolio/service-worker.js",
     "static/media/imgTech.png": "/challenge20-react-portfolio/static/media/imgTech.06b59853a73ebadcd5df.png",
@@ -12,10 +13,10 @@
     "static/media/github.svg": "/challenge20-react-portfolio/static/media/github.b7c08b5ad64a5af85516b8ec5b67339f.svg",
     "static/media/linkedin.svg": "/challenge20-react-portfolio/static/media/linkedin.2f72048cac99eb15f4c8fe8ef1ec5562.svg",
     "main.286856f3.css.map": "/challenge20-react-portfolio/static/css/main.286856f3.css.map",
-    "main.bb4cca39.js.map": "/challenge20-react-portfolio/static/js/main.bb4cca39.js.map"
+    "main.9f893102.js.map": "/challenge20-react-portfolio/static/js/main.9f893102.js.map"
   },
   "entrypoints": [
     "static/css/main.286856f3.css",
-    "static/js/main.bb4cca39.js"
+    "static/js/main.9f893102.js"
   ]
 }
