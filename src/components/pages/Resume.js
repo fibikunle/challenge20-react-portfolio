@@ -9,7 +9,7 @@ export default function Resume() {
           <p style={{ textAlign: "left" }}>
             Download my{" "}
             <a
-              href="/downloads/"
+              href="/downloads/Femi Ibikunle_June 2023.pdf"
               alt="Resume"
               style={{ color: "white" }}
               download
