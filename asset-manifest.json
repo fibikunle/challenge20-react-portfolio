@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/challenge20-react-portfolio/static/css/main.286856f3.css",
+    "main.js": "/challenge20-react-portfolio/static/js/main.bb4cca39.js",
+    "static/media/readme-generator.jpg": "/challenge20-react-portfolio/static/media/readme-generator.ec82b3e7d50b480251b2.jpg",
+    "service-worker.js": "/challenge20-react-portfolio/service-worker.js",
+    "static/media/imgTech.png": "/challenge20-react-portfolio/static/media/imgTech.06b59853a73ebadcd5df.png",
+    "static/media/employee-tracker.jpg": "/challenge20-react-portfolio/static/media/employee-tracker.1eae84bf35778c14c85a.jpg",
+    "static/media/e-commerce-back-end.jpg": "/challenge20-react-portfolio/static/media/e-commerce-back-end.28c2663d514bbb9e11a4.jpg",
+    "static/media/social-network-api.jpg": "/challenge20-react-portfolio/static/media/social-network-api.4ea725e2eeb6102fc2f5.jpg",
+    "index.html": "/challenge20-react-portfolio/index.html",
+    "static/media/github.svg": "/challenge20-react-portfolio/static/media/github.b7c08b5ad64a5af85516b8ec5b67339f.svg",
+    "static/media/linkedin.svg": "/challenge20-react-portfolio/static/media/linkedin.2f72048cac99eb15f4c8fe8ef1ec5562.svg",
+    "main.286856f3.css.map": "/challenge20-react-portfolio/static/css/main.286856f3.css.map",
+    "main.bb4cca39.js.map": "/challenge20-react-portfolio/static/js/main.bb4cca39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.286856f3.css",
+    "static/js/main.bb4cca39.js"
+  ]
+}
