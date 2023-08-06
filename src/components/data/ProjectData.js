@@ -10,7 +10,7 @@ import imgTechBlog from "../../images/imgTech.png";
 export const projects = [
   {
     title: "Tech Blog",
-    url: "https://git.heroku.com/challenge14-tech-blog.git",
+    url: "https://challenge14-tech-blog-c9ae4888ab1b.herokuapp.com/",
     image: imgTechBlog,
     description:
       "Challenge #14 for the University of Texas, Austin Coding Bootcamp 2023. The purpose of this challenge is to build a CMS-style blog site following the MVC paradigm, where developers can publish their blog posts and comment on other developers' posts as well.",

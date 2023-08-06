@@ -14,14 +14,14 @@ export default function Footer() {
       </h4>
       <div className="socialMedia">
         <a
-          href="https://github.com/ibikunlefemi/"
+          href="https://github.com/fibikunle/"
           target="_blank"
           rel="noreferrer"
         >
           <img src={svgGitHub} alt="GitHub" />
         </a>
         <a
-          href="https://www.linkedin.com/in/ibikunlefemi/"
+          href="https://www.linkedin.com/in/femi-ibikunle-a5096019b"
           target="_blank"
           rel="noreferrer"
         >

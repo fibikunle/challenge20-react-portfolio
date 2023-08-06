@@ -1,5 +1,5 @@
 // Import my picture
-import headshot from "../../images/devImg.png";
+import headshot from "../../images/headshot.png";
 
 // Builds the component to show my headshot and a short bio.
 export default function Home() {
@@ -19,35 +19,26 @@ export default function Home() {
               fontSize: "20px",
             }}
           >
-            Hi there, I'm Ibikunle OluwaFemi, and I am a Software Developer.
+            Hi there, I'm Femi Ibikunle, and I am a Software Developer.
             <br />
             You are welcome to look around.
             <br />
             Email me at{" "}
-            <a href="ibikunlefemi@gmail.com" style={{ fontStyle: "italics" }}>
-              ibikunlefemi@gmail.com
+            <a href="felixibikunle@gmail.com" style={{ fontStyle: "italics" }}>
+              felixibikunle@gmail.com
             </a>
             <br />
           </p>
           <span>
-            <a href="https://www.github.com/ibikunlefemi">GitHub {"   "} </a>
+            <a href="https://www.github.com/fibikunle">GitHub {"   "} </a>
           </span>
         </section>
         <br />
         <section>
           <div>
             <h3>My Background</h3>
-            <p className="myBackgroundText">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book. It has
-              survived not only five centuries, but also the leap into
-              electronic typesetting, remaining essentially unchanged. It was
-              popularised in the 1960s with the release of Letraset sheets
-              containing Lorem Ipsum passages, and more recently with desktop
-              publishing software like Aldus PageMaker including versions of
-              Lorem Ipsum.
+            <p className="myBackgroundText">Over 12 years of experience in Technical Program Management, IT Quality Assurance (Manual/Automation), and Training (Agile Leadership/Agile Testing/Agile Project and Delivery Management). 
+            Proven track record to deliver feature enhancements quickly, with high quality, high usability, security, high performance, and high ROI within budget estimations. Industries include Financial Services, Technology, Data Services, Real Estate, Telecommunications, Consulting and Education.
             </p>
           </div>
         </section>
